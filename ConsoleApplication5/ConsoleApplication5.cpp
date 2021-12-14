@@ -3,10 +3,14 @@
 
 #include "pch.h"
 #include <iostream>
+#include <list>
+
 using namespace std;
 int main()
 {
-    cout << "Hellaaaggo World!\n"; 
+	int *arr = new int[50]();
+	arr[30]=10;
+
 
 }
 
